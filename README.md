@@ -6,7 +6,7 @@ A collection of Business Intelligence and Data Analytics projects showcasing exp
 ### 1. E-Commerce Business Analytics Project
 **Tools:** Excel, SQL  
 **Date:** July 2024  
-[View Project]([link-to-project](https://docs.google.com/spreadsheets/d/1X6JJNAOfZrKUHKaHiAhctf3KljOUEAC8WxaMsnZWzsU/edit?usp=sharing)) | [Demo](link-to-demo)
+[View Project]([link-to-project](https://docs.google.com/spreadsheets/d/1X6JJNAOfZrKUHKaHiAhctf3KljOUEAC8WxaMsnZWzsU/edit?usp=sharing) | [Demo](link-to-demo)
 
 #### Overview
 Advanced analysis of e-commerce conversion funnel and customer retention patterns.
